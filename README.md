@@ -8,6 +8,11 @@
 
 ![](/snapscout.png)
 
+### Note: 
+This fork, by Alan Tracey Wootton is for checking in the build to see if it can be served. 
+It needed: yard add react-scripts
+And to not use homepage in package.json
+
 ### Summary
 
 Snap Shot is a gallery created using React,React Hooks, React Router and Context API. The Routes were setup for four default pages and a search page. Also the images were displayed using the Flickr API and axios to fetch data.
